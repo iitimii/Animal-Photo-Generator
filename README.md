@@ -1,2 +1,2 @@
 # Deep-Convolutional-Conditional-Generative-Adversarial-Networks
-Deep Convolutional Conditional Generative Adversarial Networks (DCC-GAN)
+Deep Convolutional Conditional Generative Adversarial Networks (DCC-GAN) for animal generation
